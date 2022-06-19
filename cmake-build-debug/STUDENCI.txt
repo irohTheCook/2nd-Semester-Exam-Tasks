@@ -1,0 +1,11 @@
+123859;3.5;Bartosinski;B.B.
+142369;2;Dabrowski;M.S.
+152354;3;Mackowiak;D.
+154896;5;Bartosiak;B.
+159654;5;Zawodzinski;Z.M.
+425978;4;Anarczyk;M.
+458236;4.5;Amarowic;K.M.
+485925;5;Celinski;M.
+485963;3.5;Ronaldo;C.
+685749;2.5;Milosinski;M.P.
+987543;4.5;Norwid;M.
